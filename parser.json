@@ -1,0 +1,8 @@
+{
+  "max_version": null,
+  "lang": "nginx",
+  "location": null,
+  "url": "https://github.com/opa-oz/tree-sitter-nginx",
+  "semver": false,
+  "min_version": null
+}
